@@ -15,9 +15,6 @@ Hey, I'm Dimas, a creator and explorer in the digital realm.<br><br>💻 I thriv
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CallMeDimas&icon=3&color=3)](https://visitcount.itsvg.in)
 
