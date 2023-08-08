@@ -19,7 +19,7 @@ Hey, I'm Dimas, a creator and explorer in the digital realm.<br><br>💻 I thriv
 [![](https://visitcount.itsvg.in/api?id=CallMeDimas&icon=3&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/CallMeDimas) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CallMeDimas) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
