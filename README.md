@@ -16,7 +16,7 @@ Hey, I'm Dimas, a creator and explorer in the digital realm.<br><br>💻 I thriv
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CallMeDimas&icon=3&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CallMeDimas&label=Profile%20Views&color=2&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CallMeDimas) 
